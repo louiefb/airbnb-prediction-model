@@ -3,10 +3,8 @@ Predicting nightly rates of Airbnb listings in Austin, TX
 
 Louie Balderrama<br>
 Springboard Data Science Career Track, January 2019 cohort<br>
-
 <h1 align="center">Capstone Project I</h1>
 
-## Introduction ##
 **Problem Statement**: Predicting the nightly rate of Airbnb listings in Austin, TX
 
 <h4 align="center">Background</h4>
