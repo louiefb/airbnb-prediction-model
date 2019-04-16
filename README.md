@@ -28,3 +28,26 @@ The crime dataset was retrieved from the City of Austin’s __[official data por
 **c. Zip Codes GeoJSON**
 
 This geospatial JSON file, also retrieved from Austin’s __[official data portal](https://data.austintexas.gov/Locations-and-Maps/Zipcodes/ghsj-v65t)__, contains the boundary coordinates of every zip code within the city. When combined with the findings of the other datasets, this file will aid in the visualization of trends by location, including where the most expensive Airbnb listings are and where crimes are reported the most.
+
+<h4 align="center">Reports</h4>
+
+**a. Airbnb Prediction Model**
+
+This is the Jupyter notebook that contains the entire study along with the source code and datasets.
+
+**b. Final Report**
+
+This is the condensed presentation slides that summarizes the whole report in 36 slides.
+
+**c. Milestone Report**
+
+This is the interim report submitted prior to applying actual machine learning techniques.
+
+**d.  Intermediary Reports**
+
+This subfolder contains all the sections of the study including:
+1. Project Proposal
+2. Data Wrangling
+3. Data Story
+4. Inferential Statistics
+5. In-Depth Analysis
